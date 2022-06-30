@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ACGVRFinalProject",
+			"Path": "C:\\Users\\utkud\\Documents\\Unreal Projects\\ACGVRFinalProject\\Source\\ACGVRFinalProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ACGVRFinalProjectEditor",
+			"Path": "C:\\Users\\utkud\\Documents\\Unreal Projects\\ACGVRFinalProject\\Source\\ACGVRFinalProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

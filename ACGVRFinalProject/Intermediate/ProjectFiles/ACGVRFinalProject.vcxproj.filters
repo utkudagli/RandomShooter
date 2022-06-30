@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ACGVRFinalProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D8CA631A-EE0A-45B2-BF5C-9761E30103EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ACGVRFinalProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ACGVRFinalProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BC584947-C3BE-4F90-A5F2-D03A91C41633}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ACGVRFinalProject">
+      <UniqueIdentifier>{3B1C593D-81D7-4C05-9E3E-DE1E69C32A7F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ACGVRFinalProject\ACGVRFinalProject.Build.cs">
+      <Filter>Source\ACGVRFinalProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ACGVRFinalProject\ACGVRFinalProject.cpp">
+      <Filter>Source\ACGVRFinalProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ACGVRFinalProject\ACGVRFinalProject.h">
+      <Filter>Source\ACGVRFinalProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ACGVRFinalProject\MyClass.cpp">
+      <Filter>Source\ACGVRFinalProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ACGVRFinalProject\MyClass.h">
+      <Filter>Source\ACGVRFinalProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

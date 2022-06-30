@@ -1,0 +1,2 @@
+C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Intermediate\Build\Win64\UE4Editor\Development\ACGVRFinalProject\Definitions.ACGVRFinalProject.h
+C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Source\ACGVRFinalProject\MyClass.h

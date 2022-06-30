@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ACGVRFinalProject-5724.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Intermediate\Build\Win64\ACGVRFinalProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Intermediate\Build\Win64\UE4Editor\Development\ACGVRFinalProject\ACGVRFinalProject.cpp.obj"
+"C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Intermediate\Build\Win64\UE4Editor\Development\ACGVRFinalProject\MyClass.cpp.obj"
+"C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Intermediate\Build\Win64\UE4Editor\Development\ACGVRFinalProject\Default.rc2.res"
+/OUT:"C:\Users\utkud\Documents\Unreal Projects\ACGVRFinalProject\Intermediate\Build\Win64\UE4Editor\Development\ACGVRFinalProject\UE4Editor-ACGVRFinalProject-5724.lib"
